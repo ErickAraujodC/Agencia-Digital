@@ -9,11 +9,11 @@
 }
 
 .card-light{
-    border: 1px solid rgba(0, 0, 0, 0.120);
+    border: 1px solid #0000001f;
 }
 
 .card-dark{
-    border: 1px solid rgba(255, 255, 255, 0.120);
+    border: 1px solid #ffffff1f;
 }
 
 .contact-light{
