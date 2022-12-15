@@ -1,0 +1,23 @@
+footer{
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+}
+
+footer span{
+    color: #feb633;
+    font-weight: 600;
+}
+
+.footer-light{
+    background-color: #f6fcf8;
+    border-top: 1px solid #2525250a;
+}
+
+.footer-dark{
+    background-color: #252525;
+    color: #f6fcf8;
+    border-top: 1px solid #f6fcf809;
+
+}

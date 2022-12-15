@@ -1,0 +1,28 @@
+.contact{
+    padding: 50px 0;
+    width: 100%;
+}
+
+.contact-p{
+    width: 60%;
+    margin: 20px auto;
+    
+}
+
+.logo-social-net{
+    width: 30px;
+    margin: 5px;
+}
+
+@media(max-width: 375px){
+    .logo-social-net{
+        width: 50px;
+        margin: 5px;
+    }
+
+    .contact-p{
+        width: 80%;
+        text-align: justify;
+        
+    }
+}
