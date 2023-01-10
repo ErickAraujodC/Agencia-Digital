@@ -15,6 +15,7 @@ const Banner = (props) =>{
                 </h1>
                 <span>
                     e design digital
+                    Desenvolvido por Erick Carvalho
                 </span>
             </div>
         </div>
