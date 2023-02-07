@@ -1,10 +1,10 @@
 import React from "react";
 import './contact.css'
-import facebook from "../../src/assets/images/facebook.png";
-import twitter from "../../src/assets/images/twitter.png";
-import behance from "../../src/assets/images/behance.png";
-import linkedin from "../../src/assets/images/linkedin.png";
-import dribble from "../../src/assets/images/dribble.png";
+import facebook from "../../assets/images/facebook.png";
+import twitter from "../../assets/images/twitter.png";
+import behance from "../../assets/images/behance.png";
+import linkedin from "../../assets/images/linkedin.png";
+import dribble from "../../assets/images/dribble.png";
 import logo from "../Header"
 
 
