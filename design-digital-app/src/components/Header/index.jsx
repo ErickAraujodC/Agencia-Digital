@@ -10,7 +10,7 @@ const Header = (props) =>{
             <img className="logo" src={logo} alt="Logo" />
             
             <button onClick={props.changeTheme}>
-                <img className="theme-logo"  src={props.isDarkTheme ? {sun} : {moon} } alt="Imagem tema" />
+                <img className="theme-logo"  src={sun}/* {props.isDarkTheme ? {sun} : {moon} } */ alt="Imagem tema" />
             </button>
         </header>
     )
