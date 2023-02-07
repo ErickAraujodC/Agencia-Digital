@@ -5,7 +5,7 @@ import twitter from "../../assets/images/twitter.png";
 import behance from "../../assets/images/behance.png";
 import linkedin from "../../assets/images/linkedin.png";
 import dribble from "../../assets/images/dribble.png";
-import logo from "../Header"
+import logo from "../Header";
 
 
 

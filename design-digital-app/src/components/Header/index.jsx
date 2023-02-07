@@ -1,8 +1,8 @@
 import React from "react";
 import './header.css';
 import logo from "../../assets/images/logo.png";
-import sun from "../../assets/images/sun.png"
-import moon from "../../assets/images/moon.png"
+import sun from "../../assets/images/sun.png";
+import moon from "../../assets/images/moon.png";
 
 const Header = (props) =>{
     return(
